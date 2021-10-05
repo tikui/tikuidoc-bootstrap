@@ -1,0 +1,7 @@
+/.github/
+/.idea/
+/node_modules/
+/test/
+/.editorconfig
+/jest.config.js
+/.husky/
